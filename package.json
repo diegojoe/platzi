@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Diego Romero <diegoromero69@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
