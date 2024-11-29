@@ -3,6 +3,8 @@
 let fruits = ['apple', 'banana', 'orange', 'mango', 'kiwi'];
 let [a, b] = fruits;
 console.log(a); // apple
+console.log(b); // banana
+console.log(fruits); // ['apple', 'banana', 'orange', 'mango', 'kiwi']
 
 let user = {username: 'john', email: 'diegoromero69@hotmail.com'};
 let {username, email} = user;

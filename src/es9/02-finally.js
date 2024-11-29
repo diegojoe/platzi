@@ -11,5 +11,4 @@ const promiseFunction = () => {
 promiseFunction()
     .then(response => console.log(response))
     .catch(response => console.log(response))
-let b = "a"
-let b = "b"
+    .finally(() => console.log('Finally'))
